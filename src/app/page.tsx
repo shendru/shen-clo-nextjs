@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Homee from "@/app/(page)/home";
 
 export default function Home() {
   return (
